@@ -132,13 +132,4 @@ Protection:
 The OWASP Testing Guide is an essential resource for securing web applications. By testing applications regularly and following security best practices. You can protect your applications from potential threats and ensure that user data remains safe.
 
  
- 13. References  
-1. **OWASP Testing Guide 4.0**  
-   *Link:* [OWASP Testing Guide 4.0]  
-2. **OWASP Top Ten 2021**  
-   *Link:* [OWASP Top Ten 2021]  
-3. **OWASP Web Security Testing Guide (WSTG)**  
-   *Link:* [OWASP WSTG]  
-4. **OWASP Cheat Sheet Series**  
-   *Link:* [OWASP Cheat Sheets]  
-5. **OWASP Dependency-Check**  
+
